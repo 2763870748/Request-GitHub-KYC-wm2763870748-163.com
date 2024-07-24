@@ -20,7 +20,7 @@ We use automated scripts to approve requests. Please make sure your GitHub accou
 
 Please fill out the following information; otherwise, your request will not be processed:
 
-- Username: 
-- Account Registration Email: 
-- Reason for Registering the .US.KG Domain Name:
+- Username: 19992041088
+- Account Registration Email: wm2763870748@163.com
+- Reason for Registering the .US.KG Domain Name:19992041088
 
